@@ -20,7 +20,8 @@ I've successfully completed a fascinating project in the HR domain, and I'm exci
 
 **Gender by value and % percentages:** Created performance column: 3 = High ratings and above is Low ratings.
 
-**Job satisfaction column:** Created job satisfaction column as 
+**Job satisfaction column:** Created job satisfaction column as
+
                              1.High
                              2.Medium
                              3.Low
@@ -30,6 +31,7 @@ I've successfully completed a fascinating project in the HR domain, and I'm exci
 **Created column for retirement and show this following:** Due for retirment and On service.
 
 **Created distance from home column with the following:**
+
                               1.Very far
                               2.Close
                               3.Very close
