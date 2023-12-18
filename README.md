@@ -18,21 +18,21 @@ I've successfully completed a fascinating project in the HR domain, and I'm exci
    2. Total Male Employees Count with Percentage: It shows count and percentage of total male employees in the company.
    3. Total Female Employees Count with Percentage: It shows count and percentage of total female employees in the company.
 
-****Gender by value and % percentages:** Created performance column: 3 = High ratings and above is Low ratings.
+**Gender by value and % percentages:** Created performance column: 3 = High ratings and above is Low ratings.
 
 **Job satisfaction column:** Created job satisfaction column as 
-High
-medium
-low
+                             1.High
+                             2.Medium
+                             3.Low
 
 **promotion column:** Created using years since last promoted column as Above 10 years should be due for promotion and the rest year will not be due.
 
 **Created column for retirement and show this following:** Due for retirment and On service.
 
 **Created distance from home column with the following:**
-Very far
-Closs
-Very closs
+                              1.Very far
+                              2.Close
+                              3.Very close
 
 The employees that need promotions and retirment are showed in the dashboard.
 
