@@ -40,7 +40,7 @@ It's been an incredible learning experience, exploring the specific challenges a
 
 Dashboard Homepage:
 
-![Homepage](![Screenshot (49)](https://github.com/sivajetteboina/Power-BI---HR-Project/assets/144469525/b75c801c-008b-4aa3-a814-3ddb5395b310)
+![Homepage] (![Screenshot (49)](https://github.com/sivajetteboina/Power-BI---HR-Project/assets/144469525/b75c801c-008b-4aa3-a814-3ddb5395b310)
 
 
 
