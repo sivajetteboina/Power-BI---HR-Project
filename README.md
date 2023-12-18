@@ -21,7 +21,7 @@ I've successfully completed a fascinating project in the HR domain, and I'm exci
 **Gender by value and % percentages:** Created performance column: 3 = High ratings and above is Low ratings.
 
 **Job satisfaction column:** Created job satisfaction column as
-                             1.High
+  1.High
                              2.Medium
                              3.Low
 
